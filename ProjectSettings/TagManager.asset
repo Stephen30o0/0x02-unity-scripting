@@ -5,9 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pickup
-  - New tag
-  - Goal
   - Trap
+  - Goal
   layers:
   - Default
   - TransparentFX
